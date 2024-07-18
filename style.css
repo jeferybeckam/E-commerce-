@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url("https://mindfuldesignconsulting.com/wp-content/uploads/2016/04/Sneaker-Store-Design.jpg");
+    background-repeat:no-repeat;
+    background-size: cover;
+    
+}
+h1{
+    color: aqua;
+    padding-bottom: 10px;
+}
+label{
+    color: antiquewhite;
+}
+button{
+    color: rgb(220, 196, 255);
+    padding-bottom:4px;
+}
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 50px;;
+    text-align: center;
+}

@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+    background-image: url("http://getwallpapers.com/wallpaper/full/1/1/f/713166-download-free-cool-shoes-hd-wallpapers-1920x1200.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+main{
+    padding: 50px;
+}
+h2{
+    padding-left: 10px;
+}
+bar{
+    color: aqua;
+}
